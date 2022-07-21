@@ -1,0 +1,6 @@
+[submodule "web-front"]
+	path = web-front
+	url = https://github.com/DmitriKulkov/web-front.git
+[submodule "web-back"]
+	path = web-back
+	url = https://github.com/DmitriKulkov/web-back.git
